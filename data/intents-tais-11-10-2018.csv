@@ -1,0 +1,703 @@
+user_example,intent
+olá,cumprimentar
+oi Taís,cumprimentar
+"olá Taís, como vai?",cumprimentar
+como vai?,cumprimentar
+bom dia,cumprimentar
+boa tarde,cumprimentar
+boa noite,cumprimentar
+oi tudo bem,cumprimentar
+oi tudo bom,cumprimentar
+oi como vai voce,cumprimentar
+como vao as coisas,cumprimentar
+alo,cumprimentar
+alou,cumprimentar
+yo,cumprimentar
+e ai tudo bem,cumprimentar
+tudo bom,cumprimentar
+posso falar com voce,cumprimentar
+pode me tirar uma duvida,cumprimentar
+claro que sim,afirmar
+posso sim,afirmar
+quero saber mais,afirmar
+quero sim,afirmar
+por favor,afirmar
+se voce puder,afirmar
+quero mais detalhes,afirmar
+quero mais,afirmar
+tudo bem,afirmar
+pode falar,afirmar
+já sim,afirmar
+já preenchi,afirmar
+ja conheco,afirmar
+conheco,afirmar
+sei,afirmar
+preenchi sim,afirmar
+já preenchi uma proposta,afirmar
+"sim, preenchi minha proposta",afirmar
+Tá,afirmar
+tá,afirmar
+Tá bom,afirmar
+tá bom,afirmar
+Okay,afirmar
+okay,afirmar
+Ok,afirmar
+ok,afirmar
+claro,afirmar
+por favor,afirmar
+se não for incomodo,afirmar
+não,negar
+não quero saber mais,negar
+quero falar sobre outra coisa,negar
+"não, ainda não",negar
+não preenchi,negar
+nao preenchi,negar
+nunca preenchi,negar
+nunca fiz,negar
+nunca,negar
+nao fiz,negar
+não está,negar
+não tem nada a ver,negar
+não é nada disso,negar
+ainda não,negar
+não sei,negar
+não conheço,negar
+nao conheco,negar
+quero nao,negar
+nao quero,negar
+"não, tudo bem",negar
+nada,negar
+não quero saber de mais nada,negar
+"não era isso, me enganei",negar
+não era isso,negar
+não é nada disso,negar
+não sei onde se encaixa,negar
+não sei dizer,negar
+não sei bem,negar
+não sei onde a minha pergunta se encaixa,negar
+não tenho certeza,negar
+escolhi errado,negar
+falei errado,negar
+hmm não sei,negar
+nao sei minha duvida,negar
+não sei o que perguntar,negar
+não sei o que quero saber,negar
+sei lá,negar
+tanto faz,negar
+nao sei o que perguntar,negar
+nao sei o que questionar,negar
+nao sei o que quero saber,negar
+ainda nao sei,negar
+ainda nao sei escolher um tópico,negar
+ainda não pensei sobre isso,negar
+não sei do que quero falar,negar
+não sei do que quero conversar,negar
+quero aprender mais sobre a lei,afirmar_curiosidades
+quero saber mais sobre a lei,afirmar_curiosidades
+pretendo saber mais sobre a lei,afirmar_curiosidades
+gostaria de aprender mais sobre a lei,afirmar_curiosidades
+gostaria de saber mais sobre a lei,afirmar_curiosidades
+quero falar sobre a lei,afirmar_curiosidades
+mais sobre a lei,afirmar_curiosidades
+Mais sobre a Lei Rouanet,afirmar_curiosidades
+vamos falar sobre a lei,afirmar_curiosidades
+sobre a lei,afirmar_curiosidades
+a lei,afirmar_curiosidades
+lei,afirmar_curiosidades
+lei rouanet,afirmar_curiosidades
+Rouanet,afirmar_curiosidades
+rouanet,afirmar_curiosidades
+curiosidades,afirmar_curiosidades
+gostaria de falar mais sobre a lei,afirmar_curiosidades
+tenho duvidas na lei rouanet,afirmar_curiosidades
+possuo curiosidades sobre a lei rouanet,afirmar_curiosidades
+sobre a Lei eu acho,afirmar_curiosidades
+creio que sobre a lei rouanet,afirmar_curiosidades
+o que é a lei,afirmar_curiosidades
+O que é a lei,afirmar_curiosidades
+prefiro conversar sobre criação e andamento de projetos,afirmar_projeto
+prefiro conversar sobre proposta,afirmar_projeto
+prefiro conversar sobre projetos,afirmar_projeto
+prefiro falar sobre criação e andamento de projetos,afirmar_projeto
+prefiro falar sobre proposta,afirmar_projeto
+prefiro falar sobre projetos,afirmar_projeto
+quero conversar sobre projetos,afirmar_projeto
+quero conversar sobre criação e andamento de projetos,afirmar_projeto
+quero conversar sobre proposta,afirmar_projeto
+quero conversar sobre projetos,afirmar_projeto
+quero falar sobre proposta,afirmar_projeto
+quero falar sobre projetos,afirmar_projeto
+projetos,afirmar_projeto
+projeto,afirmar_projeto
+proposta,afirmar_projeto
+propostas,afirmar_projeto
+sobre proposta,afirmar_projeto
+sobre projetos,afirmar_projeto
+sobre a criação,afirmar_projeto
+sobre a criacao,afirmar_projeto
+sobre o andamento,afirmar_projeto
+andamento,afirmar_projeto
+criação,afirmar_projeto
+criacao,afirmar_projeto
+criação de projetos,afirmar_projeto
+criação de projeto,afirmar_projeto
+andamento de projetos,afirmar_projeto
+o que é um projeto?,o_que_eh
+o que é a cnic?,o_que_eh
+o que é proposta?,o_que_eh
+o que e proponente?,o_que_eh
+o que é isso?,o_que_eh
+o que preenchimento quer dizer?,o_que_eh
+o que lei rouanet significa?,o_que_eh
+oq é Lei Rouanet?,o_que_eh
+oq é a Lei Rouanet?,o_que_eh
+pode conceituar salic?,o_que_eh
+pode conceituar o salic?,o_que_eh
+pode explicar execução?,o_que_eh
+pode me explicar a fase de preenchimento?,o_que_eh
+pode me explicar a lei rouanet?,o_que_eh
+pode me dar o conceito do salic,o_que_eh
+não faço ideia do que seja proponente,o_que_eh
+não sei bem o que você quer dizer com sefic,o_que_eh
+Não sei o que é  e90,o_que_eh
+me explique prestação de contas,o_que_eh
+me explica o que é a cnic,o_que_eh
+me explica o que é o salic,o_que_eh
+me explique melhor o conceito de projeto,o_que_eh
+me explique melhor o que é um proponente,o_que_eh
+qual o conceito de sefic?,o_que_eh
+qual o significado de a12?,o_que_eh
+como funciona a prestação de contas,o_que_eh
+como funciona a fase de preenchimento,o_que_eh
+o que significa e90?,o_que_eh
+o que significa o estado e90?,o_que_eh
+o que eh A12?,o_que_eh
+você pode me explicar sobre prestação de contas,o_que_eh
+você pode me explicar o que é e90,o_que_eh
+O que significa cnic?,o_que_eh
+defina cnic,o_que_eh
+explique cnic,o_que_eh
+me explique a fase de preenchimento,o_que_eh
+me explique a fase de prestação de contas,o_que_eh
+5,duvida_sobre_contexto
+se encaixa na 5,duvida_sobre_contexto
+acho que seria a 5,duvida_sobre_contexto
+na quinta alternativa,duvida_sobre_contexto
+alternativa 5,duvida_sobre_contexto
+se encaixa na 5,duvida_sobre_contexto
+acho que seria a 5,duvida_sobre_contexto
+quinta opção,duvida_sobre_contexto
+opção cinco,duvida_sobre_contexto
+cinco,duvida_sobre_contexto
+Bacana,extra
+legal,extra
+Entendi,extra
+Compreendi,extra
+Saquei,extra
+Daora,extra
+Tá,extra
+Tá bom,extra
+Bom,extra
+Okay,extra
+Ok,extra
+Muito bom,extra
+Muito bem,extra
+Gostei,extra
+Massa,extra
+Maneiro,extra
+Interessante,extra
+Joia,extra
+Formidável,extra
+Excelente,extra
+Ótimo,extra
+Extraordinário,extra
+Excepcional,extra
+Notável,extra
+Top,extra
+Perfeito,extra
+Certo,extra
+Quantos projetos já participaram da lei rouanet?,curiosidades_quantidade_projetos
+Quantos projetos já foram agraciados pela lei rouanet?,curiosidades_quantidade_projetos
+Quantos projetos usam da lei rouanet?,curiosidades_quantidade_projetos
+Quantos são os projetos usam da lei rouanet?,curiosidades_quantidade_projetos
+Quantos projetos existem?,curiosidades_quantidade_projetos
+Qual a média de projetos por ano?,curiosidades_quantidade_projetos
+Qual o número de projetos?,curiosidades_quantidade_projetos
+Você tem a estatistica sobre projetos participantes?,curiosidades_quantidade_projetos
+Qual a quantidade de projetos que já usou a lei?,curiosidades_quantidade_projetos
+número de projetos incetivados pela lei até agora,curiosidades_quantidade_projetos
+quantos projetos já tiveram incentivo da lei?,curiosidades_quantidade_projetos
+qual a quantidade de projetos a lei rouanet possui?,curiosidades_quantidade_projetos
+qual a quantidade de projetos que a lei rouanet tem?,curiosidades_quantidade_projetos
+qtos projetos a lei rouanet tem?,curiosidades_quantidade_projetos
+Qual o benefício de incentivar projetos culturais ?,curiosidades_beneficios_incentivo_projetos_culturais
+Há benefício para incentivar projetos culturais ?,curiosidades_beneficios_incentivo_projetos_culturais
+O que ganho investindo em projetos culturais ?,curiosidades_beneficios_incentivo_projetos_culturais
+"Investimento e projetos culturais, tem benefícios?",curiosidades_beneficios_incentivo_projetos_culturais
+O que se ganha ao incentivar projetos culturais ?,curiosidades_beneficios_incentivo_projetos_culturais
+Incentivo a projetos culturais há benefícios ?,curiosidades_beneficios_incentivo_projetos_culturais
+Tem algum beneficio para incetivar projetos?,curiosidades_beneficios_incentivo_projetos_culturais
+Tem algum beneficio em incentivar projetos?,curiosidades_beneficios_incentivo_projetos_culturais
+Existem algum incentivo para quem contribui para os projetos culturais,curiosidades_beneficios_incentivo_projetos_culturais
+"Quero contribuir para um projeto, o que ganho com isso?",curiosidades_beneficios_incentivo_projetos_culturais
+o que eu ganho ao incentivar um projeto?,curiosidades_beneficios_incentivo_projetos_culturais
+que tipo de benefícios alguém recebe ao incentivar um projeto?,curiosidades_beneficios_incentivo_projetos_culturais
+"se eu incentivar algum projeto, recebo algum beneficio?",curiosidades_beneficios_incentivo_projetos_culturais
+ganho algum beneficio por incentivar algum projeto?,curiosidades_beneficios_incentivo_projetos_culturais
+tem algum beneficio para quem incentiva um projeto?,curiosidades_beneficios_incentivo_projetos_culturais
+um incentivador pode receber algum beneficio?,curiosidades_beneficios_incentivo_projetos_culturais
+Que tipo de beneficios alguem recebe se incentivar um projeto,curiosidades_beneficios_incentivo_projetos_culturais
+"se eu incentivar o projeto, o que recebo?",curiosidades_beneficios_incentivo_projetos_culturais
+que benefícios tem pra quem incentivar um projeto?,curiosidades_beneficios_incentivo_projetos_culturais
+quem pode se inscrever na lei rouanet?,curiosidades_lei_rouanet_elegibilidade
+quem pode participar?,curiosidades_lei_rouanet_elegibilidade
+como eu me inscrevo na lei rouanet?,curiosidades_lei_rouanet_elegibilidade
+posso me inscrever na lei rouanet?,curiosidades_lei_rouanet_elegibilidade
+quero participar da lei,curiosidades_lei_rouanet_elegibilidade
+onde eu me inscrevo,curiosidades_lei_rouanet_elegibilidade
+eu posso usar a lei?,curiosidades_lei_rouanet_elegibilidade
+como se aplicar?,curiosidades_lei_rouanet_elegibilidade
+quem pode se aplicar?,curiosidades_lei_rouanet_elegibilidade
+o que preciso para virar proponente?,curiosidades_lei_rouanet_elegibilidade
+eu posso participar da lei rouanet?,curiosidades_lei_rouanet_elegibilidade
+eu posso ser proponente?,curiosidades_lei_rouanet_elegibilidade
+como eu posso usar a lei para o meu projeto?,curiosidades_lei_rouanet_elegibilidade
+quais são os critérios de elegibilidade?,curiosidades_lei_rouanet_elegibilidade
+quais as regras para pariticipar?,curiosidades_lei_rouanet_elegibilidade
+quanto dinheiro a lei movimenta?,curiosidades_lei_rouanet_arrecadamento
+quanto dinheiro a lei rouanet arrecada?,curiosidades_lei_rouanet_arrecadamento
+De onde vem o dinheiro da lei rouanet?,curiosidades_lei_rouanet_arrecadamento
+de onde vem o dinheiro usado na Lei,curiosidades_lei_rouanet_arrecadamento
+o dinheiro da lei rouanet é público?,curiosidades_lei_rouanet_arrecadamento
+Porque os cidadãos tem que pagar pelos projetos da lei rouanet?,curiosidades_lei_rouanet_arrecadamento
+quem pode contribuir para um projeto da lei rouanet?,curiosidades_lei_rouanet_arrecadamento
+eu como cidadão posso contribuir para um projeto,curiosidades_lei_rouanet_arrecadamento
+pessoa física pode contribuir,curiosidades_lei_rouanet_arrecadamento
+o dinheiro da lei é privado ou público,curiosidades_lei_rouanet_arrecadamento
+é o cidadão que paga pelos projetos da lei rouanet,curiosidades_lei_rouanet_arrecadamento
+porque a lei rouanet usa dinheiro público,curiosidades_lei_rouanet_arrecadamento
+a lei rouanet usa dinheiro de empresas?,curiosidades_lei_rouanet_arrecadamento
+quanto a lei rouanet já arrecadou?,curiosidades_lei_rouanet_arrecadamento
+quanto já foi arrecadado pela lei rouanet?,curiosidades_lei_rouanet_arrecadamento
+quanto a lei rouanet já consegui arrecadar?,curiosidades_lei_rouanet_arrecadamento
+a lei rouanet ja arrecadou algum dinheiro?,curiosidades_lei_rouanet_arrecadamento
+quanto dinheiro a lei rouanet já arrecadou?,curiosidades_lei_rouanet_arrecadamento
+quanto a lei ja arrecadou?,curiosidades_lei_rouanet_arrecadamento
+qto a lei já arrecadou?,curiosidades_lei_rouanet_arrecadamento
+quero denunciar um projeto,curiosidades_lei_rouanet_denuncia
+como faço uma denúncia,curiosidades_lei_rouanet_denuncia
+tem um projeto usando o dinheiro da lei de forma indevida,curiosidades_lei_rouanet_denuncia
+tem um projeto fazendo o uso do dinheiro de forma ilegal,curiosidades_lei_rouanet_denuncia
+com quem eu falo para denunciar um projeto,curiosidades_lei_rouanet_denuncia
+posso denunciar um projeto para você,curiosidades_lei_rouanet_denuncia
+tenho um projeto para denunciar,curiosidades_lei_rouanet_denuncia
+o que fazer quando alguém utiliza o dinheiro de forma ilegal,curiosidades_lei_rouanet_denuncia
+como faço pra denunciar um projeto?,curiosidades_lei_rouanet_denuncia
+"identifiquei uma irregularidade em um projeto, como eu denuncio?",curiosidades_lei_rouanet_denuncia
+"tem algo errado no projeto do Roberto, há algum jeito de eu denunciar?",curiosidades_lei_rouanet_denuncia
+"tem algo errado no projeto Pintura e Bordado, há algum jeito de eu denunciar?",curiosidades_lei_rouanet_denuncia
+a lei possui algum mencanismo de denuncia,curiosidades_lei_rouanet_denuncia
+como eu denuncio um projeto?,curiosidades_lei_rouanet_denuncia
+gostaria de saber como faço uma denuncia,curiosidades_lei_rouanet_denuncia
+como funciona a denuncia?,curiosidades_lei_rouanet_denuncia
+qual o processo de denuncia?,curiosidades_lei_rouanet_denuncia
+da pra fazer uma denuncia?,curiosidades_lei_rouanet_denuncia
+queria saber se é possivel fazer uma denuncia,curiosidades_lei_rouanet_denuncia
+"se eu quiser fazer uma denuncia, como faço?",curiosidades_lei_rouanet_denuncia
+"Qualquer empresa pode se beneficiar de incentivos fiscais, apoiando projetos culturais?",curiosidades_elegibilidade_de_empresa_para_beneficios
+Quais empresas podem se beneficiar ao apoiar projetos culturais?,curiosidades_elegibilidade_de_empresa_para_beneficios
+Que tipos de empresas podem se beneficiar ao apoiar projetos culturais?,curiosidades_elegibilidade_de_empresa_para_beneficios
+"Apoiando projetos culturais, qualquer empresa se beneficia?",curiosidades_elegibilidade_de_empresa_para_beneficios
+Empresas que se beneficiam ao apoiar projeto culturais?,curiosidades_elegibilidade_de_empresa_para_beneficios
+"Tenho uma empresa e quero particiar da lei rouanet, como eu sei se posso?",curiosidades_elegibilidade_de_empresa_para_beneficios
+qual o critério de elegibilidade para pessoas jurídicas,curiosidades_elegibilidade_de_empresa_para_beneficios
+toda empresa pode usar a lei rouanet?,curiosidades_elegibilidade_de_empresa_para_beneficios
+tem alguma execeção para uma empresa não utilizar a lei rouanet,curiosidades_elegibilidade_de_empresa_para_beneficios
+quais a regras de elegibilidade no caso de empresas,curiosidades_elegibilidade_de_empresa_para_beneficios
+qual a minha elegibilidade como pessoa juridica para participar da lei,curiosidades_elegibilidade_de_empresa_para_beneficios
+qual a minha elegibilidade como cnpj para participar da lei,curiosidades_elegibilidade_de_empresa_para_beneficios
+qualquer empresa pode participar da lei Rouanet?,curiosidades_elegibilidade_de_empresa_para_beneficios
+que empresa pode participar?,curiosidades_elegibilidade_de_empresa_para_beneficios
+que tipo de empresa pode participar?,curiosidades_elegibilidade_de_empresa_para_beneficios
+Meus parentes podem incentivar meu projeto ?,curiosidades_receber_incetivo_de_parentes
+Meus pais e tios podem incentivar meu projeto ?,curiosidades_receber_incetivo_de_parentes
+Tem problema parentes incentivarem projetos ?,curiosidades_receber_incetivo_de_parentes
+"Tenho parentes que desejam incentivar meus projetos, tem alguma restrição ?",curiosidades_receber_incetivo_de_parentes
+Parentes incentivando meus projetos. Tem problema ?,curiosidades_receber_incetivo_de_parentes
+"Tem problema meu irmão ou irmã, tio ou tia, primo ou prima, mãe ou pai incentivar meus projetos ?",curiosidades_receber_incetivo_de_parentes
+"Minha irmã quer incetivar meu projeto, tem problema?",curiosidades_receber_incetivo_de_parentes
+Minha filha possui uma empresa e quer incentivar um dos meus projetos,curiosidades_receber_incetivo_de_parentes
+Possuo um tio que quer me incentivar na cultura,curiosidades_receber_incetivo_de_parentes
+Tenho um primo que quer me dar dinheiro pela lei rouanet,curiosidades_receber_incetivo_de_parentes
+Algum parente meu pode incentivar meu projeto?,curiosidades_receber_incetivo_de_parentes
+Meu projeto pode ser incentivado pela minha família?,curiosidades_receber_incetivo_de_parentes
+minha família pode incentivar meu projeto?,curiosidades_receber_incetivo_de_parentes
+Queria saber se a minha família pode ajudar a bancar o meu projeto,curiosidades_receber_incetivo_de_parentes
+Quero saber se a minha família pode financiar o meu projeto,curiosidades_receber_incetivo_de_parentes
+Quero saber se meus parentes podem ajudar a financiar o meu projeto,curiosidades_receber_incetivo_de_parentes
+A minha família pode colocar dinheiro no meu projeto?,curiosidades_receber_incetivo_de_parentes
+quero saber se meus parentes podem ser beneficiados,curiosidades_receber_incetivo_de_parentes
+meus familiares podem incentivar meu projeto?,curiosidades_receber_incetivo_de_parentes
+a família pode incentivar projetos?,curiosidades_receber_incetivo_de_parentes
+Quanto o incentivador de projetos culturais pode deduzir de seu imposto de renda?,curiosidades_deducao_imposto_de_renda_incentivador
+Incentivadores de projetos podem deduzir quanto de impostos de renda ?,curiosidades_deducao_imposto_de_renda_incentivador
+Quanto de imposto de renda incentivadores conseguem deduzir de impostos ?,curiosidades_deducao_imposto_de_renda_incentivador
+Qual valor um incentivador consegue deduzir de imposto de renda ?,curiosidades_deducao_imposto_de_renda_incentivador
+Caso eu incentive um projeto quanto eu vou abater do meu IR,curiosidades_deducao_imposto_de_renda_incentivador
+Quanto é o abatimento no IR caso haja algum incentivo,curiosidades_deducao_imposto_de_renda_incentivador
+Quanto eu ganho de desconto no imposto de renda incentivando projeto culturais,curiosidades_deducao_imposto_de_renda_incentivador
+Qual a porcentagem do imposto que vou abater após incentivar projetos?,curiosidades_deducao_imposto_de_renda_incentivador
+qual é o desconto que recebo no IR ao incentivar um projeto,curiosidades_deducao_imposto_de_renda_incentivador
+Se eu incentivar eu vou ter dedução no meu imposto de renda,curiosidades_deducao_imposto_de_renda_incentivador
+qual a dedução de imposto de renda para incentivadores?,curiosidades_deducao_imposto_de_renda_incentivador
+qual a dedução de impostos para incentivadores?,curiosidades_deducao_imposto_de_renda_incentivador
+qual a dedução de imposto de renda para incentivadores?,curiosidades_deducao_imposto_de_renda_incentivador
+"sou incentivador, quanto posso receber como dedução de imposto de renda??",curiosidades_deducao_imposto_de_renda_incentivador
+o que significa [A12](estadoSalic),oqueeh_estadoSalic
+o que significa [A14](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [A14](estadoSalic),oqueeh_estadoSalic
+o que é estado [A14](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [A14](estadoSalic),oqueeh_estadoSalic
+o que significa [A20](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [A20](estadoSalic),oqueeh_estadoSalic
+o que é estado [A20](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [A20](estadoSalic),oqueeh_estadoSalic
+o que significa [A23](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [A23](estadoSalic),oqueeh_estadoSalic
+o que é estado [A23](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [A23](estadoSalic),oqueeh_estadoSalic
+o que significa [B01](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [B01](estadoSalic),oqueeh_estadoSalic
+o que é estado [B01](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [B01](estadoSalic),oqueeh_estadoSalic
+o que significa [B14](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [B14](estadoSalic),oqueeh_estadoSalic
+o que é estado [B14](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [B14](estadoSalic),oqueeh_estadoSalic
+o que significa [A13](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [A13](estadoSalic),oqueeh_estadoSalic
+o que é estado [A13](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [A13](estadoSalic),oqueeh_estadoSalic
+o que significa [A16](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [A16](estadoSalic),oqueeh_estadoSalic
+o que é estado [A16](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [A16](estadoSalic),oqueeh_estadoSalic
+o que significa [A17](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [A17](estadoSalic),oqueeh_estadoSalic
+o que é estado [A17](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [A17](estadoSalic),oqueeh_estadoSalic
+o que significa [A42](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [A42](estadoSalic),oqueeh_estadoSalic
+o que é estado [A42](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [A42](estadoSalic),oqueeh_estadoSalic
+o que significa [B11](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [B11](estadoSalic),oqueeh_estadoSalic
+o que é estado [B11](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [B11](estadoSalic),oqueeh_estadoSalic
+o que significa [B20](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [B20](estadoSalic),oqueeh_estadoSalic
+o que é estado [B20](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [B20](estadoSalic),oqueeh_estadoSalic
+o que significa [C09](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [C09](estadoSalic),oqueeh_estadoSalic
+o que é estado [C09](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [C09](estadoSalic),oqueeh_estadoSalic
+o que significa [C10](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [C10](estadoSalic),oqueeh_estadoSalic
+o que é estado [C10](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [C10](estadoSalic),oqueeh_estadoSalic
+o que significa [C20](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [C20](estadoSalic),oqueeh_estadoSalic
+o que é estado [C20](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [C20](estadoSalic),oqueeh_estadoSalic
+o que significa [C26](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [C26](estadoSalic),oqueeh_estadoSalic
+o que é estado [C26](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [C26](estadoSalic),oqueeh_estadoSalic
+o que significa [C30](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [C30](estadoSalic),oqueeh_estadoSalic
+o que é estado [C30](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [C30](estadoSalic),oqueeh_estadoSalic
+o que significa [D03](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [D03](estadoSalic),oqueeh_estadoSalic
+o que é estado [D03](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [D03](estadoSalic),oqueeh_estadoSalic
+o que significa [D14](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [D14](estadoSalic),oqueeh_estadoSalic
+o que é estado [D14](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [D14](estadoSalic),oqueeh_estadoSalic
+o que significa [D20](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [D20](estadoSalic),oqueeh_estadoSalic
+o que é estado [D20](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [D20](estadoSalic),oqueeh_estadoSalic
+o que significa [D25](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [D25](estadoSalic),oqueeh_estadoSalic
+o que é estado [D25](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [D25](estadoSalic),oqueeh_estadoSalic
+o que significa [D27](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [D27](estadoSalic),oqueeh_estadoSalic
+o que é estado [D27](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [D27](estadoSalic),oqueeh_estadoSalic
+o que significa [E25](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E25](estadoSalic),oqueeh_estadoSalic
+o que é estado [E25](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E25](estadoSalic),oqueeh_estadoSalic
+o que significa [E62](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E62](estadoSalic),oqueeh_estadoSalic
+o que é estado [E62](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E62](estadoSalic),oqueeh_estadoSalic
+o que significa [E66](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E66](estadoSalic),oqueeh_estadoSalic
+o que é estado [E66](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E66](estadoSalic),oqueeh_estadoSalic
+o que significa [E20](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E20](estadoSalic),oqueeh_estadoSalic
+o que é estado [E20](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E20](estadoSalic),oqueeh_estadoSalic
+o que significa [E27](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E27](estadoSalic),oqueeh_estadoSalic
+o que é estado [E27](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E27](estadoSalic),oqueeh_estadoSalic
+o que significa [E30](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E30](estadoSalic),oqueeh_estadoSalic
+o que é estado [E30](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E30](estadoSalic),oqueeh_estadoSalic
+o que significa [E68](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E68](estadoSalic),oqueeh_estadoSalic
+o que é estado [E68](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E68](estadoSalic),oqueeh_estadoSalic
+o que significa [E77](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E77](estadoSalic),oqueeh_estadoSalic
+o que é estado [E77](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E77](estadoSalic),oqueeh_estadoSalic
+o que significa [L03](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [L03](estadoSalic),oqueeh_estadoSalic
+o que é estado [L03](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [L03](estadoSalic),oqueeh_estadoSalic
+o que significa [L05](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [L05](estadoSalic),oqueeh_estadoSalic
+o que é estado [L05](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [L05](estadoSalic),oqueeh_estadoSalic
+o que significa [L08](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [L08](estadoSalic),oqueeh_estadoSalic
+o que é estado [L08](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [L08](estadoSalic),oqueeh_estadoSalic
+o que significa [L10](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [L10](estadoSalic),oqueeh_estadoSalic
+o que é estado [L10](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [L10](estadoSalic),oqueeh_estadoSalic
+o que significa [L11](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [L11](estadoSalic),oqueeh_estadoSalic
+o que é estado [L11](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [L11](estadoSalic),oqueeh_estadoSalic
+o que significa [D22](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [D22](estadoSalic),oqueeh_estadoSalic
+o que é estado [D22](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [D22](estadoSalic),oqueeh_estadoSalic
+o que significa [D28](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [D28](estadoSalic),oqueeh_estadoSalic
+o que é estado [D28](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [D28](estadoSalic),oqueeh_estadoSalic
+o que significa [D29](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [D29](estadoSalic),oqueeh_estadoSalic
+o que é estado [D29](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [D29](estadoSalic),oqueeh_estadoSalic
+o que significa [E10](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E10](estadoSalic),oqueeh_estadoSalic
+o que é estado [E10](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E10](estadoSalic),oqueeh_estadoSalic
+o que significa [E11](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E11](estadoSalic),oqueeh_estadoSalic
+o que é estado [E11](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E11](estadoSalic),oqueeh_estadoSalic
+o que significa [E12](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E12](estadoSalic),oqueeh_estadoSalic
+o que é estado [E12](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E12](estadoSalic),oqueeh_estadoSalic
+o que significa [E13](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E13](estadoSalic),oqueeh_estadoSalic
+o que é estado [E13](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E13](estadoSalic),oqueeh_estadoSalic
+o que significa [E15](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E15](estadoSalic),oqueeh_estadoSalic
+o que é estado [E15](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E15](estadoSalic),oqueeh_estadoSalic
+o que significa [E16](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E16](estadoSalic),oqueeh_estadoSalic
+o que é estado [E16](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E16](estadoSalic),oqueeh_estadoSalic
+o que significa [E23](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E23](estadoSalic),oqueeh_estadoSalic
+o que é estado [E23](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E23](estadoSalic),oqueeh_estadoSalic
+o que significa [E24](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E24](estadoSalic),oqueeh_estadoSalic
+o que é estado [E24](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E24](estadoSalic),oqueeh_estadoSalic
+o que significa [E36](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E36](estadoSalic),oqueeh_estadoSalic
+o que é estado [E36](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E36](estadoSalic),oqueeh_estadoSalic
+o que significa [E59](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E59](estadoSalic),oqueeh_estadoSalic
+o que é estado [E59](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E59](estadoSalic),oqueeh_estadoSalic
+o que significa [E63](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E63](estadoSalic),oqueeh_estadoSalic
+o que é estado [E63](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E63](estadoSalic),oqueeh_estadoSalic
+o que significa [E64](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E64](estadoSalic),oqueeh_estadoSalic
+o que é estado [E64](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E64](estadoSalic),oqueeh_estadoSalic
+o que significa [E65](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E65](estadoSalic),oqueeh_estadoSalic
+o que é estado [E65](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E65](estadoSalic),oqueeh_estadoSalic
+o que significa [E75](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E75](estadoSalic),oqueeh_estadoSalic
+o que é estado [E75](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E75](estadoSalic),oqueeh_estadoSalic
+o que significa [E79](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E79](estadoSalic),oqueeh_estadoSalic
+o que é estado [E79](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E79](estadoSalic),oqueeh_estadoSalic
+o que significa [E80](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E80](estadoSalic),oqueeh_estadoSalic
+o que é estado [E80](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E80](estadoSalic),oqueeh_estadoSalic
+o que significa [E81](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E81](estadoSalic),oqueeh_estadoSalic
+o que é estado [E81](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E81](estadoSalic),oqueeh_estadoSalic
+o que significa [E60](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E60](estadoSalic),oqueeh_estadoSalic
+o que é estado [E60](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E60](estadoSalic),oqueeh_estadoSalic
+o que significa [E72](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E72](estadoSalic),oqueeh_estadoSalic
+o que é estado [E72](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E72](estadoSalic),oqueeh_estadoSalic
+o que significa [E50](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E50](estadoSalic),oqueeh_estadoSalic
+o que é estado [E50](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E50](estadoSalic),oqueeh_estadoSalic
+o que significa [L09](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [L09](estadoSalic),oqueeh_estadoSalic
+o que é estado [L09](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [L09](estadoSalic),oqueeh_estadoSalic
+o que significa [D38](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [D38](estadoSalic),oqueeh_estadoSalic
+o que é estado [D38](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [D38](estadoSalic),oqueeh_estadoSalic
+o que significa [E22](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E22](estadoSalic),oqueeh_estadoSalic
+o que é estado [E22](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E22](estadoSalic),oqueeh_estadoSalic
+o que significa [E73](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E73](estadoSalic),oqueeh_estadoSalic
+o que é estado [E73](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E73](estadoSalic),oqueeh_estadoSalic
+o que significa [E78](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E78](estadoSalic),oqueeh_estadoSalic
+o que é estado [E78](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E78](estadoSalic),oqueeh_estadoSalic
+o que significa [E47](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [E47](estadoSalic),oqueeh_estadoSalic
+o que é estado [E47](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [E47](estadoSalic),oqueeh_estadoSalic
+o que significa [L06](estadoSalic),oqueeh_estadoSalic
+tenho dúvida sobre o estado [L06](estadoSalic),oqueeh_estadoSalic
+o que é estado [L06](estadoSalic),oqueeh_estadoSalic
+onde posso saber mais sobre o estado [L06](estadoSalic),oqueeh_estadoSalic
+oque é Rouana,oqueEhSalicRouana
+o que significa Rouana,oqueEhSalicRouana
+oque é LeiRouanet,oqueEhSalicLeiRouanet
+o que significa LeiRouanet,oqueEhSalicLeiRouanet
+oque é Minc,oqueEhSalicMinc
+o que significa Minc,oqueEhSalicMinc
+oque é Sefic,oqueEhSalicSefic
+o que significa Sefic,oqueEhSalicSefic
+oque é Projeto,oqueEhSalicProjeto
+o que significa Projeto,oqueEhSalicProjeto
+oque é Proposta,oqueEhSalicProposta
+o que significa Proposta,oqueEhSalicProposta
+oque é Proponente,oqueEhSalicProponente
+o que significa Proponente,oqueEhSalicProponente
+oque é Preenchimento,oqueEhSalicPreenchimento
+o que significa Preenchimento,oqueEhSalicPreenchimento
+oque é Admissibilidade,oqueEhSalicAdmissibilidade
+o que significa Admissibilidade,oqueEhSalicAdmissibilidade
+oque é Aprovacao,oqueEhSalicAprovacao
+o que significa Aprovacao,oqueEhSalicAprovacao
+oque é Execucao,oqueEhSalicExecucao
+o que significa Execucao,oqueEhSalicExecucao
+oque é PrestacaoDeContas,oqueEhSalicPrestacaoDeContas
+o que significa PrestacaoDeContas,oqueEhSalicPrestacaoDeContas
+oque é SALIC,oqueEhSalic
+o que significa Salic,oqueEhSalic
+oque é Vinculada,oqueEhSalicVinculada
+o que significa Vinculada,oqueEhSalicVinculada
+4,escolher_erros_salic
+quarta opção,escolher_erros_salic
+quarto tópico,escolher_erros_salic
+Tenho um erro,escolher_erros_salic
+erro no salic,escolher_erros_salic
+erro do salic,escolher_erros_salic
+errros,escolher_erros_salic
+Erros Salic,escolher_erros_salic
+erros do salic,escolher_erros_salic
+erros salic,escolher_erros_salic
+quarta categoria,escolher_erros_salic
+opção quatro,escolher_erros_salic
+quatro,escolher_erros_salic
+falha no salic,escolher_erros_salic
+3,escolher_prazo
+terceira opção,escolher_prazo
+terceiro tópico,escolher_prazo
+Data,escolher_prazo
+prazo,escolher_prazo
+prazos,escolher_prazo
+Prazo,escolher_prazo
+sobre prazo,escolher_prazo
+data,escolher_prazo
+sobre data,escolher_prazo
+datas,escolher_prazo
+prazos e datas,escolher_prazo
+sobre prazos e datas,escolher_prazo
+datas e prazos,escolher_prazo
+escolha 3,escolher_prazo
+na 3,escolher_prazo
+opção três,escolher_prazo
+três,escolher_prazo
+categoria 3,escolher_prazo
+2,escolher_preenchimento
+preenchimento do Salic,escolher_preenchimento
+Preenchimento,escolher_preenchimento
+de preenchimento,escolher_preenchimento
+em preenchimento,escolher_preenchimento
+preenchimento,escolher_preenchimento
+salic,escolher_preenchimento
+segunda opção,escolher_preenchimento
+segundo tópico,escolher_preenchimento
+tem um erro,escolher_preenchimento
+acho que na 2,escolher_preenchimento
+opção 2,escolher_preenchimento
+na segunda,escolher_preenchimento
+categoria 2,escolher_preenchimento
+1,escolher_processo
+sobre processo,escolher_processo
+processo,escolher_processo
+Processo,escolher_processo
+estado do projeto,escolher_processo
+sobre estado,escolher_processo
+Estado,escolher_processo
+primeira opção,escolher_processo
+primeiro tópico,escolher_processo
+estado,escolher_processo
+processo do projeto,escolher_processo
+Estado do projeto,escolher_processo
+se encaixa na 1,escolher_processo
+um,escolher_processo
+opção um,escolher_processo
+categoriga um,escolher_processo
